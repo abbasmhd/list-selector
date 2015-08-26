@@ -1,5 +1,5 @@
 # list-selector
-Typescript Linq style list selector 
+List/Array Lambda selector Typescript implementation
 
 based on [array-selector by thelgevold](https://github.com/thelgevold/array-selector)
 
